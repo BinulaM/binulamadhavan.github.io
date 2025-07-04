@@ -10,10 +10,7 @@ Welcome to my personal portfolio! I'm Binula Madhavan, a final-year Computer Sci
 
 ## 📌 Featured Projects
 
-### [Final Year Project: Dementia Support Web App](React-Flask.zip![image](https://github.com/user-attachments/assets/2f2fe350-fe3c-4468-b23a-e5f8c409634a)
-)
-
-[Click on the link above to download my Final Year Project]
+### [Final Year Project: Dementia Support Web App] - Available Upon Request
 
 A clinical cognitive support tool designed to assist dementia patients using Flask and React.js, featuring game-based assessments and performance tracking.
 
