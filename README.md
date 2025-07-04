@@ -30,7 +30,6 @@ Collaborative mobile app built using React Native and Android Studio, aiming to 
 
 - **[LinkedIn](https://www.linkedin.com/in/binulamadhavan)**
 - **[GitHub](https://github.com/BinulaM/)**
-- **[Download my CV](assets/BinulaMadhavan_CV.pdf)**
 
 ---
 
